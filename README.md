@@ -1,4 +1,5 @@
 # Task 2: Phishing Email Threat Analysis
+[phishing_email.txt.txt](https://github.com/user-attachments/files/29548243/phishing_email.txt.txt)
 
 ## 🎯 Objective
 To identify, dissect, and document phishing indicators and malicious traits found within a suspicious email sample.
